@@ -38,16 +38,16 @@ Before you begin, ensure you have the following prerequisites:
 
    ```bash
    git clone https://github.com/Vivekpatel2903/ImageFinderApp.git
-
-   ```bash
    cd image-finder
-
-   ```bash
    npm install
+   npm start
+
+2.Open your browser and visit http://localhost:3000 to access the Image Finder application.
+
+  
 
 
 
- This project is licensed under the MIT License.
-
+3.This project is licensed under the MIT License.
 Make sure to replace the placeholders like `#` and `https://github.com/Vivekpatel2903/ImageFinderApp.git` with your actual project details. Additionally, update the "Demo" section with the link to your live demo if available.
 
