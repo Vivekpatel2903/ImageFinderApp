@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImageFinderApp/static/css/main.e6c13ad2.css",
+    "main.js": "/ImageFinderApp/static/js/main.f8133598.js",
+    "static/js/787.495448bd.chunk.js": "/ImageFinderApp/static/js/787.495448bd.chunk.js",
+    "index.html": "/ImageFinderApp/index.html",
+    "main.e6c13ad2.css.map": "/ImageFinderApp/static/css/main.e6c13ad2.css.map",
+    "main.f8133598.js.map": "/ImageFinderApp/static/js/main.f8133598.js.map",
+    "787.495448bd.chunk.js.map": "/ImageFinderApp/static/js/787.495448bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f8133598.js"
+  ]
+}
